@@ -1,3 +1,2 @@
 # Real Estate App
-
-![Real Estate](https://i.ibb.co/jTW4bFC/image.png)
+![Image](https://github.com/StayMatch/staymatch-frontend/assets/31122814/cfa8ed29-c950-4a09-b426-c79681f048d1)
